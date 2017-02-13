@@ -1,0 +1,14 @@
+{
+  "name": "assert-system-cli",
+  "version": "0.0.1",
+  "description": "a global cli tool to spit back your system environment details",
+  "main": "index.js",
+  "repository": "https://github.com/ericvandevprod/assert-system-cli.git",
+  "author": "Eric Vandenberg <eric@vandevprod.com>",
+  "license": "MIT",
+  "dependencies": {
+    "commander": "^2.9.0",
+    "meow": "^3.7.0",
+    "yargs": "^6.6.0"
+  }
+}
